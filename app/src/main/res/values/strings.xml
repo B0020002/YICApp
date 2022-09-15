@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">YICApp</string>
+    <string name="name">作業者</string>
+    <string-array name="name_spinner">
+        <item>AAA</item>
+        <item>BBB</item>
+        <item>CCC</item>
+    </string-array>
+
+    <string-array name="task_spinner">
+        <item>整枝・剪定</item>
+        <item>施肥</item>
+        <item>摘蕾</item>
+    </string-array>
+</resources>
